@@ -25,7 +25,7 @@ class AbstractDocument():
         """
         pass 
 
-    def View(Self):
+    def View(self):
         """Return entire contents of document"""
         pass
 
