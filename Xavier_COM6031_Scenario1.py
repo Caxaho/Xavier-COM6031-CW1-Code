@@ -174,7 +174,7 @@ class WordFactory(DocumentFactory):
 
 class Client():
     def __init__(self, document_factory):
-        self._factory = document_factory
+        self._factory = document_factory # Initialise private factory
 
     def Report(self):
         document = self._factory.CreateDocument('Test File')                    # Create document of the type of the factory passed in to the client

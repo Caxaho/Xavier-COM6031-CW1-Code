@@ -27,7 +27,7 @@
         <mxCell id="17acba5748e5396b-21" value="GetPremium()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="17acba5748e5396b-20" vertex="1">
           <mxGeometry y="40" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="17acba5748e5396b-24" value="SetPremium()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="17acba5748e5396b-20" vertex="1">
+        <mxCell id="17acba5748e5396b-24" value="SetPremium(new_premium)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="17acba5748e5396b-20" vertex="1">
           <mxGeometry y="66" width="180" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5d2195bd80daf111-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startFill=0;endArrow=open;endFill=0;endSize=10;fontFamily=Verdana;fontSize=10;" parent="1" edge="1">
